@@ -1,6 +1,5 @@
 # youtube_mp3_downloaderDownloads MP3 of youtube videos, place urls in " List_of_Youtube_URL.txt ".
- Install this package
-      pip install youtube_dl
+ Install youtube_dl - https://github.com/rg3/youtube-dl#installation
 
 Note: ffmpeg is required for convertion to mp3, linux users can use : sudo apt-get install ffmpeg
 
